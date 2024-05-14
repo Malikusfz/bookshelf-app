@@ -5,8 +5,22 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contributors](https://img.shields.io/github/contributors/username/bookshelf-app)
 ![Issues](https://img.shields.io/github/issues/username/bookshelf-app)
+![Last Commit](https://img.shields.io/github/last-commit/username/bookshelf-app)
+![Code Quality](https://img.shields.io/codacy/grade/xxxxxxxxxxxx) <!-- Replace with actual Codacy ID -->
 
-Bookshelf App is a simple web application to manage your books. This application allows you to add, edit, and delete books from your virtual bookshelf.
+Bookshelf App is a simple yet powerful web application to manage your books. This application allows you to add, edit, and delete books from your virtual bookshelf.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
