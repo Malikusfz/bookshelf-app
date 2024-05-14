@@ -44,7 +44,7 @@ You need a web browser to run the application.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/username/bookshelf-app.git
+   git clone https://github.com/Malikusfz/bookshelf-app.git
    ```
 
 2. Open `index.html` in your browser to view the application.
@@ -71,4 +71,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Malikus Syafaadi Nurfaza - [LinkedIn](https://www.linkedin.com/in/malikussyafaadinurfaza/)
 
-Project Link: [https://github.com/username/bookshelf-app](https://github.com/Malikusfz/bookshelf-app)
+Project Link: [https://github.com/Malikusfz/bookshelf-app](https://github.com/Malikusfz/bookshelf-app)
