@@ -3,10 +3,6 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Contributors](https://img.shields.io/github/contributors/username/bookshelf-app)
-![Issues](https://img.shields.io/github/issues/username/bookshelf-app)
-![Last Commit](https://img.shields.io/github/last-commit/username/bookshelf-app)
-![Code Quality](https://img.shields.io/codacy/grade/xxxxxxxxxxxx) <!-- Replace with actual Codacy ID -->
 
 Bookshelf App is a simple yet powerful web application to manage your books. This application allows you to add, edit, and delete books from your virtual bookshelf.
 
@@ -75,4 +71,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Malikus Syafaadi Nurfaza - [LinkedIn](https://www.linkedin.com/in/malikussyafaadinurfaza/)
 
-Project Link: [https://github.com/username/bookshelf-app](https://github.com/username/bookshelf-app)
+Project Link: [https://github.com/username/bookshelf-app](https://github.com/Malikusfz/bookshelf-app)
